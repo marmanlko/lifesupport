@@ -1,0 +1,7 @@
+.btnl{
+  border: 1px solid white;
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 3px;
+  font-weight: 100;
+}

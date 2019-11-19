@@ -1,0 +1,122 @@
+.containerl{
+  width: 450px;
+  margin: 30px auto;
+}
+
+.signup,
+.login{
+  width: 50%;
+  background: none;
+  float: left;
+  height: 60px;
+  line-height: 60px;
+  border-radius: 100px;
+  text-align: center;
+  cursor: pointer;
+  text-transform: uppercase;
+  color:#007d9e;
+  font-weight: bold;
+
+}
+
+.signup-form,
+.login-form{
+  background: white;
+  padding: 40px;
+  clear: both;
+  width: 100%;
+  box-sizing: border-box;
+  height: 550px;
+  border: 2px solid #007d9e;
+}
+
+  
+.text-box{
+  width: 80%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 8px 0;
+  margin: 8px 0;
+  border-bottom: 2px solid #007d9e;
+}
+.text-box i{
+  width: 26px;
+  float: left;
+  text-align: center;
+}
+.text-box input{
+  border: none;
+  outline: none;
+  background: none;
+  color: #007d9e;
+  font-size: 18px;
+  width: 80%;
+  float: left;
+  margin: 0 10px;
+}
+
+.input{
+  /*width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-bottom: 25px;
+  border: 2px solid #e9eaea;
+  color: #3e3e40;
+  font-size: 14px;
+  outline: none;
+  transform: all 0.5s ease;*/
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 8px 0;
+  margin: 8px 0;
+  border-bottom: 2px solid #007d9e;
+
+}
+
+.input:focus{
+  border: 2px solid #34b3a0;
+}
+
+.btn{
+   width: 80%;
+  background: none;
+  border: 2px solid #007d9e;
+  padding: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 12px 0;
+}
+
+span a{
+  text-decoration: none;
+  color: #000;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #3e3e40;
+  font-family: roboto;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #3e3e40;
+  font-family: roboto;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #3e3e40;
+  font-family: roboto;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: #3e3e40;
+  font-family: roboto;
+}
+.rbtn
+{
+  color: white;
+  text-align: center;
+ 
+}
+
+
+
+
+
